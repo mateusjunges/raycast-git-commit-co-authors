@@ -2,6 +2,11 @@
 
 This generates the Co-Author string you need to add co-authors to your git commits
 
+```
+Co-Authored-By: Jane Doe <jane@doe.com>
+Co-Authored-By: John Doe <john@doe.com>
+```
+
 <img width="751" alt="Screenshot 2024-02-07 at 15 00 32" src="https://github.com/mateusjunges/raycast-git-commit-co-authors/assets/19756164/613de391-e63c-49ec-9a0f-8c7a875aa2b6">
 
 
